@@ -1,0 +1,15 @@
+Server: Server
+Date: Thu, 05 Mar 2020 17:39:26 GMT
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Accept-Encoding,User-Agent,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment
+Content-Language: en-US
+Location: /Books-Last-30-days/s?rh=n%3A283155%2Cp_n_publication_date%3A1250226011&page=3
+Content-Encoding: gzip
+X-Xss-Protection: 1;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: NYKGM2AZPQ84S6X0YR6W
+X-Cache: Miss from cloudfront
+Via: 1.1 736b024e1a1a6198e908e9dc59a41c9a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DFW50-C1
+X-Amz-Cf-Id: 0TM8u9bgiC1RQRPbtYrgXuALZx8GP1gpudvyMASKZY52wVZP5_Zp-A==
